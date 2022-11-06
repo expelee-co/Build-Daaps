@@ -1,6 +1,6 @@
 Created a DApp for Defi Forge. Integrated 2 Dapps with their website https://defiforge.io/
 
-1 Staking – You can Stake your Forge tokens with this Dapp and then earn more Forge Tokens with it. 
+1 Staking – You can Stake your Forge tokens with this Dapp and then earn more Forge Tokens with it.
 Can be accessed using this link : https://defiforge.io/stake
 
 ![Screenshot (846)](https://user-images.githubusercontent.com/104678268/200186098-c233e080-e4d4-47b9-855c-817acb615602.png)
@@ -10,5 +10,6 @@ Can be accessed using this link : https://defiforge.io/stake
 Can be accessed using this link : https://defiforge.io/token
 
 ![Screenshot (847)](https://user-images.githubusercontent.com/104678268/200186167-410fa5eb-3263-42e7-8e73-d62e5739c800.png)
-![Screenshot (848)](https://user-images.githubusercontent.com/104678268/200186111-08401327-13f4-4fd1-8581-bff7e1bae2b5.png)
+![Screenshot (848)](https://user-images.githubusercontent.com/104678268/200186210-e91f8ea8-0618-4b1e-a35e-646942e6de15.png)
+
 
