@@ -1,6 +1,8 @@
-Created a DApp for Defi Forge. Defi Forge is built with the vision to revolutionize the space through utilities that create a safer, more user friendly atmosphere for DeFi.
+Created a DApp for Defi Forge. 
 
-We created and Integrated 2 Dapps with their website https://defiforge.io/
+Defi Forge is built with the vision to revolutionize the space through utilities that create a safer, more user friendly atmosphere for DeFi.
+
+We created and integrated 2 Dapps with their website https://defiforge.io/
 
 1 Staking – You can Stake your Forge tokens with this Dapp and then earn more Forge Tokens with it.
 
