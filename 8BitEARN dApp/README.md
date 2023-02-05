@@ -10,7 +10,7 @@ Below is the screenshot of the dapp
 
 Here are all the features of the dapp
 
-1. Staking - This staking platform can be used to stake and earn more 8Bit tokens.
+- Staking - This staking platform can be used to stake and earn more 8Bit tokens.
 
 Link - https://dapp.8bitearn.com/staking
 
