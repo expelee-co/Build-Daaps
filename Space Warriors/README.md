@@ -20,4 +20,4 @@ This staking platform was created to meet the needs of the client and offer a co
 
 - Deployment: Once the testing phase was complete, the platform was deployed to the production environment. This involved configuring the infrastructure and setting up the necessary security protocols to ensure the safety of the platform and the digital assets it manages.
 
-- Throughout the development process, we maintained close communication with the client to ensure that their needs were being met and to make any necessary modifications to the platform. Our goal was to create a platform that is user-friendly, secure, and efficient, offering a top-notch staking experience to users.
+Throughout the development process, we maintained close communication with the client to ensure that their needs were being met and to make any necessary modifications to the platform. Our goal was to create a platform that is user-friendly, secure, and efficient, offering a top-notch staking experience to users.
