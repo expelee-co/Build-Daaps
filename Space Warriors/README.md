@@ -1,5 +1,6 @@
-We created this Staking and Rewards platform through which a user can stake their token and earn rewards out of it. 
-Below is the images of the Staking Platform
+We created this Staking and Rewards platform through which a user can stake their token and earn rewards out of it.
+
+Below are the images of the Staking Platform
 
 ![Screenshot (30)](https://user-images.githubusercontent.com/104678268/216811619-6f8a88b6-bd9c-4a4e-a664-262a72872f05.png)
 
