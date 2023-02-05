@@ -6,7 +6,7 @@ Link - https://dapp.8bitearn.com/
 
 Below is the screenshot of the dapp
 
-![Screenshot (15)](https://user-images.githubusercontent.com/104678268/216806359-b71b8ce1-2544-4a09-952a-441ed64cbe4c.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/104678268/216807107-7eb0bf06-20e6-4177-9497-df3c6a5d29fd.png)
 
 Here are all the features of the dapp
 
