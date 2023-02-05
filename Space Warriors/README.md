@@ -8,7 +8,7 @@ Below are the images of the Staking Platform
 ![Screenshot (31)](https://user-images.githubusercontent.com/104678268/216811624-b0a253d1-ff75-4176-b3bd-da2867a147e9.png)
 
 
-Our staking platform was created to meet the needs of our client and offer a convenient and secure solution for staking digital assets. The development process involved the following steps:
+This staking platform was created to meet the needs of the client and offer a convenient and secure solution for staking digital assets. The development process involved the following steps:
 
 - Requirements Gathering: The first step was to understand the client's requirements and expectations for the platform. This involved collecting and analyzing the client's business needs, stakeholder requirements, and the market demands for staking services.
 
